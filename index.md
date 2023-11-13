@@ -10,3 +10,8 @@
 ``` c++
 string var = "Hello, World!";
 ```
+
+- [x] Complete Introduction to GitHub Tutorial
+- [ ] Complete Communicate Using Markdown Tutorial
+- [ ] Complete Resolve Merge Conflicts Tutorial
+- [ ] Submit Screenshots of completion to EE 553 Canvas
